@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.bg-container {
+  background-color: #eef4f7;
+  min-height: 100vh;
+  font-family: 'Roboto';
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.main-heading {
+  color: #334155;
+  text-decoration: #52bbf0 underline;
+}
+.list-container1 {
+  list-style-type: none;
+  padding-left: 0;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
